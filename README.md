@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deices
+- 👋 Hi, I’m Deividas Eičes
 - 👀 I’m interested in weightlifting
 - 🌱 I’m currently learning at Code Academy
 - 📫 How to reach me: Email, deividasei@gmail.com
